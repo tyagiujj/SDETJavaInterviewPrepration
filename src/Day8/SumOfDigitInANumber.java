@@ -16,5 +16,6 @@ public class SumOfDigitInANumber {
 		System.out.println("Sum of the Digit in a Number is : " + sum);
 
 	}
+	
 
 }
