@@ -15,7 +15,9 @@ public class GenerateNumbersAndStrings {
 		
 		
 //Approach 2 Math class
-		System.out.println(Math.random());
+		//System.out.println(Math.random());
+	
+		
 		
 		
 
