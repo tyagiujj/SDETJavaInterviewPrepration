@@ -3,7 +3,7 @@ package Day28;
 public class DuplicateCharacters {
 
     public static void main(String[] args) {
-        String name = "Ujjwal";
+        String name = "Programming";
         
         for (int i = 0; i < name.length(); i++) {
             for (int j = i + 1; j < name.length(); j++) {
